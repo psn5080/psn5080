@@ -1,37 +1,67 @@
-### Hi there 👋 | My name is Pranav S Narayanan, and I'm a 17 year old AI Developer!
+# Pranav S Narayanan
 
-### Technologies
+## 👋 Hi there! I'm a Computer Science student and AI enthusiast.
+
+I'm passionate about leveraging cutting-edge technologies to solve complex problems in fields like quantum computing, machine learning, and space exploration.
+
+### 🎓 Education
+
+- BS in Computer Science, Minor in Astrophysics and Astronomy
+- GPA: 4.0
+
+### 🚀 Featured Projects
+
+- **Quantum Protein Folding Simulations and Teleportation**: Achieved 92.325% accuracy in quantum state transmission using Qiskit and advanced protocols.
+- **Neuro-Evolutionary Autonomous Navigation System for Mars Rovers**: Designed using NEAT algorithm, achieving a mean fitness score of 8093.
+- **Flow Analysis of Rocket Nozzle Exhaust**: Optimized rocket exhaust flow using CFD, enhancing propellant performance by 12%.
+- **Formula 1 Pitstop Analysis**: Improved pitstop performance by ~9% through data-driven strategies.
+- **SpaceX Virtual Auto-Dock Simulator**: Reduced docking time by 63-75% using neural networks and reinforcement learning.
+
+### 💻 Technologies
 
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-000?&logo=Pytorch)
 ![Machine Learning](https://img.shields.io/badge/-🤖%20Machine%20Learning-000)
 ![Blockchain](https://img.shields.io/badge/-🔗%20Blockchain-000)
 
-### Languages
+### 🌐 Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![MATLAB](https://img.shields.io/badge/-MATLAB-000?&logo=mathworks)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Solidity](https://img.shields.io/badge/-Solidity-000?&logo=Solidity)
-![JupyterNotebook](https://img.shields.io/badge/-Jupyter%20Notebook-000?&logo=Jupyter)
+![Assembly](https://img.shields.io/badge/-Assembly-000?&logo=assemblyscript)
 
-### Certificates
+### 🛠 Tools
 
- > <a href="https://cs50.harvard.edu/certificates/0f7b411a-b3cf-416e-b0d2-28a395ba0d7a.png">Harvard CS50 AI With Python </a> <br>
- > <a href="https://certificates.saylor.org/3b554b1c-eb0c-414d-8dab-76836ad7a54e">CS120: Bitcoin For Developer I </a> <br>
- > <a href="https://www.freecodecamp.org/certification/buzzpranav/machine-learning-with-python-v7">FreeCodeCamp's Intro TO AI and ML </a> <br>
- > <a href="https://www.edx.org/course/google-ai-for-anyone">Google's AI For Anyone </a> <br>
- > <a href="https://www.coursera.org/learn/ai-for-everyone"> AI For Everyone </a> <br>
- > <a href="https://www.edx.org/course/artificial-intelligence-for-everyone">IBM's AI For Everyone </a> <br>
- > <a href="https://buzzpranav.github.io/">Elements of AI By Helsinki University </a> <br>
- > <a href="https://buzzpranav.github.io/">Kaggle Deep Learning </a>
+- Qiskit, Pandas, OpenCV, Git
+- ANSYS Fluent, MongoDB, AutoCAD, OpenRocket
+- Linux
 
-### Top Projects
+### 🏆 Certifications
 
-[![](https://img.shields.io/badge/-🌐%20MyWebsite-000)](https://buzzpranav.github.io)
-[![](https://img.shields.io/badge/-🚗%202DSelfDrivingCar-000)](https://github.com/buzzpranav/AutonomousDriver.py)
-[![](https://img.shields.io/badge/-🤖%20VirtualAssistant-000)](https://github.com/buzzpranav/VirtualAssistant.py)
-[![](https://img.shields.io/badge/-🐦%20TwitterSentimentAnalysis-000)](https://github.com/buzzpranav/TwitterSentimentAnalysis.py)
-[![](https://img.shields.io/badge/-👦%20LiveAge&GenderDetection-000)](https://github.com/buzzpranav/Live-AI-Age-And-Gender-Recognizer)
-[![](https://img.shields.io/badge/-🏋️%20OpenAIGyms-000)](https://github.com/buzzpranav/cartpole-ppo-ai)
-[![](https://img.shields.io/badge/-🏠%20HousePricePrediction-000)](https://github.com/buzzpranav/House-Price-Prediction)
+- Harvard CS50 AI
+- Intro to Computational Fluid Dynamics
+- IBM Machine Learning Dimensionality Reduction
+- FreeCodeCamp Machine Learning with Python
+- Kaggle AI Safety & Ethics
+- Google's AI Explainability
 
-<a href="https://buzzpranav.github.io/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=buzzpranav&hide=contribs,issues,prs&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=dracula" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buzzpranav&hide=html,javascript&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=dracula" /></a>
+### 🌟 Leadership Experience
+
+- Pulsar Search Collaboratory
+- Nittany Motorsports
+- Penn State Rocket Labs
+- Quantum Computing Society
+
+### 📊 GitHub Stats
+
+<a href="https://psnarayanan.github.io/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=psnarayanan&hide=contribs,issues,prs&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=dracula" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=psnarayanan&hide=html,javascript&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=dracula" /></a>
+
+### 📫 Get in Touch
+
+- LinkedIn: [linkedin.com/in/pranav-s-narayanan/](https://linkedin.com/in/pranav-s-narayanan/)
+- Email: buzzpranav06@gmail.com
+
+Feel free to explore my repositories and don't hesitate to reach out for collaborations or discussions!
